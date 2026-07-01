@@ -1,19 +1,19 @@
 <h1 align="center">👋 Olá, eu sou a Beatriz Souza</h1>
 
-<h3 align="center">🎯 Estudante de Engenharia de Software | Front-End em formação -> FullStack | Ex-gestora operacional migrando para tech</h3>
+<h3 align="center">🎯 Estudante de Engenharia de Software | Desenvolvedora Front-End | React • JavaScript • HTML5 • CSS3 | Python e Node.js em aprendizado</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beatriz-souza-6a942b333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Isla-ctrl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:bzsouza1303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Estou em transição de carreira. Por cerca de **4 anos liderei a gestão operacional e administrativa de um restaurante**. Assumindo, ainda muito jovem, responsabilidades como controle de estoque, relação com fornecedores, liderança de equipe e implementação de ferramentas digitais, sem ter curso ou formação prévia para isso. Aprendi na prática, resolvendo o que precisava ser resolvido.
+Sou *estudante de Engenharia de Software* (Universidade Cruzeiro do Sul, 2026–2030) com foco em desenvolvimento fullstack. Comecei minha formação prática pelo frontend (acredito em ter uma base sólida antes de avançar) e agora estou expandindo para backend com Python e Node.js, e em breve quero evoluir pra arquitetura completa de sistemas.
 
-Hoje curso **Engenharia de Software** (previsão de conclusão em 2030) e estou me especializando em **Front-End** (pela formação da Alura) como ponto de partida, mas meu objetivo é me tornar FullStack. Já estou estudando Back-End(Node.js) e em breve quero evoluir pra arquitetura completa de sistemas. Construo projetos reais, escrevo código organizado e estou em busca da minha primeira oportunidade como **estagiária ou desenvolvedora júnior**.
+Antes da faculdade, passei *4 anos como gestora operacional e analista de processos digitais* em um restaurante, onde construí sistemas do zero, digitalizei processos e aprendi a tomar decisões com base em dados. Hoje trago isso para a programação: visão analítica, autossuficiência e a disposição de ficar horas num bug para resolver o problema. Uso IA como ferramenta pontual, não como muleta.
 
 > 💡 Não venho de uma trajetória tradicional em tech. Venho de resolver problemas reais sob pressão. Isso me deu disciplina, senso de dono e capacidade de aprender rápido, que aplico hoje ao código.
 
@@ -21,60 +21,97 @@ Hoje curso **Engenharia de Software** (previsão de conclusão em 2030) e estou 
 
 ### 🛠️ Stack Tecnológica
 
-**Linguagens & Front-End**
+### Frontend & Fundamentos
+<div id="frontend">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Backend & Expansão
+<div id="backend">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/POO-4B4B4B?style=for-the-badge" alt="POO" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</div>
 
-**Em aprendizado**
+### Engenharia de Software
+<div id="engenharia">
+  <img src="https://img.shields.io/badge/Scrum-127BC4?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Modelagem_C4-055D88?style=for-the-badge" alt="Modelagem C4" />
+  <img src="https://img.shields.io/badge/Requisitos-4B5563?style=for-the-badge" alt="Requisitos" />
+</div>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![POO](https://img.shields.io/badge/POO-4B4B4B?style=for-the-badge)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Ferramentas & Produtividade
+<div id="ferramentas">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DevTools" />
+  <img src="https://img.shields.io/badge/Terminal-4E555B?style=for-the-badge&logo=gnume-terminal&logoColor=white" alt="Terminal" />
+</div>
 
 ---
 
-### 🧠 Habilidades técnicas & de gestão
+### 🧠 Habilidades técnicas
 
-✔️ Desenvolvimento de páginas responsivas com HTML5 e CSS3 (Flexbox/grid) <br>
-✔️ Lógica de programação com JavaScript e Node.js <br>
-✔️ Manipulação do DOM e LocalStorage <br>
-✔️ Implementação de CRUD com requisições HTTP *(em andamento)* <br>
-✔️ Fluxo profissional de Git — branches, commits, pull requests e merges via terminal <br>
-✔️ Liderança de equipe <br>
-✔️ Gestão de pessoas e processos <br>
-✔️ Implementação de ferramentas digitais em ambiente operacional <br>
+✔️ HTML5 & CSS3 <br>
+  - Semantica, Responsividade, Flexbox, CSS Grid
+  SEO, Acessibilidade (WCAG), Formularios HTML
+
+✔️ JavaScript ES6+<br>
+  - DOM, arrays, objetos, funcoes, rest/spread, destructuring
+  Requisicoes HTTP (CRUD: GET, POST, PUT, DELETE)
+  localStorage, manipulacao de elementos no DOM
+
+✔️ Python<br>
+  - Logica de programacao, OOP, condicionais, funcoes
+  Listas, dicionarios, try-except  (faculdade + Alura)
+
+✔️ Git & GitHub<br>
+  - Commits, merge, bug fix, branches, GitHub Pages
+
+✔️ Node.js & Ecossistema Frontend <br>
+  - NPM: gerenciamento de pacotes, scripts, deps dev/prod
+  - Vite: bundler, deploy de producao
+  - ESLint e Prettier: qualidade e padronizacao de codigo
+  Assincronismo, promises, CLIs
+
+✔️ Engenharia de Software<br>
+  - Scrum e Metodologias Ageis
+  - Levantamento e documentacao de requisitos
+  - Modelagem estrutural, comportamental e Modelagem C4
+  - Analise de processos
 
 ---
 
 ### 📚 Atualmente estudando
 
-- React.js e fundamentos de Programação Orientada a Objetos
-- Node.js
-- Implementação de CRUD com requisições HTTP
-- Manipulação avançada de elementos do DOM e LocalStorage
+Carreiras Alura: <br>
+
+💻 Front-end React (Carga horária total - 584h) 
+- Nível atual de aprendizado: desenvolver uma base sólida nos fundamentos do React, incluindo JSX, componentes reutilizáveis, gerenciamento de estado local e estilização. Além de criar interfaces modernas, consumir APIs e aplicar boas práticas de estruturação.<br>
+
+💻 Back-end Python (Carga horária total - 476h)
+- Nível atual de aprendizado: Lógica e estruturas básicas para construir minhas primeiras aplicações. Foco em esenvolver o raciocínio computacional e conceitos essenciais da linguagem. Além de dominar os pilares da Orientação a Objetos (POO).<br>
+
+💻 Back-end Node.js (Carga horária total - 564h)
+- Nível atual de aprendizado: Construir uma APIs REST com Express, consolidando fundamentos de HTTP e CRUD. Também integrar o back-end ao front-end em uma aplicação completa, adotando práticas usadas no mercado. Trabalhar com persistência de dados com bancos relacionais (SQL) e NoSQL (MongoDB), utilizando ORM para modelagem e migrações. Implementar validações, testes e tratamento de erros. Ter o primeiro contato com NestJS e TypeORM para organização e escalabilidade de aplicações.
 
 ---
 
 ### 💼 Projetos em destaque
+
+> Organizando a casa: fazendo o push dos meus projetos e estudos locais para cá aos poucos.
 
 **[jornada-viagens](https://github.com/Isla-ctrl/jornada-viagens)**
 Site responsivo de agência de viagens, desenvolvido no módulo de responsividade da formação Front-End da Alura. Implementei por conta própria um menu hambúrguer em JavaScript, além do exigido pelo curso, seguindo um fluxo de Git profissional com branches e pull requests.
 
 **[Pesquisa-Culturama](https://github.com/Isla-ctrl/Pesquisa-Culturama)**
 Formulário de pesquisa online desenvolvido para a empresa Culturama, com atenção a acessibilidade e SEO.
-
-**[Tecboard-Alura](https://github.com/Isla-ctrl/Tecboard-Alura)**
-Projeto desenvolvido durante o curso de Front-End da Alura.
-
-Outros projetos de lógica com JavaScript: [`alugame-logica-js`](https://github.com/Isla-ctrl/alugame-logica-js) · [`amigo-secreto-logica-js`](https://github.com/Isla-ctrl/amigo-secreto-logica-js) · [`carrinho-de-compra-logica-js`](https://github.com/Isla-ctrl/carrinho-de-compra-logica-js)
 
 ---
 
@@ -103,7 +140,3 @@ Outros projetos de lógica com JavaScript: [`alugame-logica-js`](https://github.
 ### ✨ Filosofia
 
 > "Eu não esperei estar pronta para assumir responsabilidade, aprendi que confiança se constrói fazendo, errando e resolvendo. Movida por desafios, construo minha carreira na tecnologia focada em entregar soluções e liderar iniciativas, gerando valor real a cada linha de código. Minha filosofia é clara: evolução constante e um problema resolvido por vez."
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-</p>
