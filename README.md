@@ -118,12 +118,12 @@ Formulário de pesquisa online desenvolvido para a empresa Culturama, com atenç
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isla-ctrl&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isla-ctrl&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isla-ctrl&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isla-ctrl&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Isla-ctrl&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isla-ctrl&theme=tokyonight&hide_border=true" width="70%" alt="Streak do GitHub" />
 </p>
 
 ---
